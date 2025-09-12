@@ -22,23 +22,23 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 * 📅 12/06/25 (Thu) – Day 4 – Java Arrays<br>
   Topics: Declaring and initializing 1D and 2D arrays, array traversal using loops, searching and sorting elements, and array-based problem-solving.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/Arraypractice)<br>
+  🔗 [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/Core-Java/Array)<br>
 
 * 📅 13/06/25 (Fri) – Day 5 – Java Methods<br>
   Topics: Creating reusable methods, method overloading, returning values, and passing arguments (by value), plus real-world use cases.<br>
-  🔗  [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/JavaMethods)<br>
+  🔗  [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/Core-Java/Methods)<br>
 
 * 📅 16/06/25 (Mon) – Day 6 – Java Strings<br>
   Topics: Understanding String class, string creation, comparing strings, common string methods (charAt, substring, indexOf, etc.)<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/JavaString)<br>
+  🔗 [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/Core-Java/Strings)<br>
 
 * 📅 17/06/25 - 18/06/25 (Tue - Wed) – Day 7 – Java Built-In Functions<br>
   Topics: Working with built-in Java libraries: Math (rounding, powers, roots), Arrays utility class, and basic intro to Collections.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/BuiltInFunction)<br>
+  🔗 [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/Core-Java/Strings/Built-InFunctions)<br>
 
 * 📅 19/06/25 (Thu) – Day 8 – Java String Handling<br>
   Topics: Mutable vs immutable strings, StringBuilder & StringBuffer, performance comparison, string reversal and manipulation.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/JavaStringHandling)<br>
+  🔗 [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/Core-Java/Strings)<br>
 
 ### 🧱 OOP Branch
 
