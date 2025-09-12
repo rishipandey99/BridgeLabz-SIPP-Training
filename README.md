@@ -119,80 +119,28 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 * 📅 11/07/25 (Fri) – Day 6 – Algorithm's Runtime Analysis & Big-O Notation<br>
   Topics: What is Runtime Analysis? , Understanding Big-O Notation, Time Complexity Analysis, Space Complexity Analysis, Best Worst and Average Case Complexities,  Practical Guidelines for Optimizing Java Code<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/DSA/RuntimeAnalysisAndBigONotation)<br>
-
-### 🛠 Workshop Branch
-
-* 📅 11/07/25 (Fri) – Day 6 – Coding Review<br>
-  Problem Statement 7 : 🚕 CabbyGo – A Ride-Hailing App in the Making<br>
-  📘 Scenario:   You’ve joined a startup building CabbyGo, a ride-hailing app. You're tasked with building the backend logic for managing vehicles, drivers, and ride booking.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/CabbyGo.java)<br>
-
-* 📅 14/07/25 (Mon) – Day 7 – Coding Review<br>
-  Problem Statement 8 : 🌐 Browser History Navigation<br>
-  📘 Scenario: Maintain a user’s browsing history with the ability to move back and forth.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/ParcelTrackerMain.java)<br>
-
-* 📅 14/07/25 (Mon) – Day 8 – Coding Review<br>
-  Problem Statement 9 : 📚 BookShelf – Library Organizer<br>
-  📘 Scenario:   Students should be able to enroll in courses, and faculty can assign grades.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/BookShelfMain.java)<br>
-
-* 📅 15/07/25 (Tue) – Day 9 – Coding Review<br>
-  Problem Statement 10 : 🎵 Music Playlist Queue <br>
-  📘 Scenario: A music player plays songs one after another and can dynamically add/remove songs.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/MusicPlayer.java)<br>
-
+  🔗 [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/DSA)<br>
 ### 🧰 Generics Branch
-
 * 📅 21/07/25 (Mon) – Day 1 – Coding Review<br>
   Topics : Introduction to Generics, Type Parameters, Generic Classes, Generic Methods, Bounded Type Parameters, Wildcards
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Generics/Generic)<br>
-
-### 🛠 Workshop Branch
-
-* 📅 25/07/25 (Fri) – Day 10 – Coding Review<br>
-  Problem Statement 11 : 📇 Address Book Management System<br>
-  📘 Scenario: You’ve been hired to build the backend logic for a simple but powerful Address Book System. This system should help users store and manage contact information efficiently. The goal is to provide a user-friendly experience for adding, removing, searching, listing, and analyzing contact data.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/AddressBookSystem.java)<br>
-
-* 📅 28/07/25 (Mon) – Day 11 – Coding Review<br>
-  Problem Statement 12 : 🧑‍🎓 GradeBook – Student Marks Report System<br>
-  📘 Scenario: You’ve been brought in to develop a backend logic for GradeBook, a marks-reporting system for schools and coaching centers. The application will allow staff to store, analyze, and compare student performance based on their academic marks. Your goal is to design a flexible and efficient system that keeps track of multiple marks for each student and provides insightful performance metrics.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/StudentMarksReport.java)<br>
-
-* 📅 28/07/25 (Mon) – Day 11 – Coding Review<br>
-  Problem Statement 13 : 🎓 StudentPro – Smart Student Management System<br>
-  📘 Scenario: You’ve joined an EdTech company developing StudentPro, a student management system for schools and colleges. Your task is to implement the core backend logic to manage student records efficiently. The system should allow staff to maintain student data, retrieve academic details, and perform sorting/filtering based on grades and subjects.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/StudentManagementSystemApp.java)<br>
-
+  🔗 [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/Generics/Generic)<br>
+  ### 🧰 Collections
+  🔗[Code] (https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/Generics/Collections)<br>
 
 ### 🚀 StreamAPI Branch
 
 * 📅 29/07/25 (Tue) – Day 1 – Java Streams <br>
   Topics: Java I/O Streams, Types of Streams, File Streams, Object Streams, ByteArray Streams, Buffered Streams, Reader and Writer, Key Considerations, Best Practices<br>
-  🔗 [Coming Soon]()<br>
+  🔗 [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/streamAPI)<br>
 
 * 📅 01/08/25 (Fri) – Day 2 – Exception Handling <br>
   Topics: Types of Exceptions, Checked Exceptions, Unchecked Exceptions, Custom Exceptions, Handling Exceptions, try-catch blocks, try-catch-finally blocks, try-with-resources statement, throws clause, throw statement, Creating Custom Exceptions, Extending Exception Class, Defining Constructors<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/StreamAPI/Exceptions)<br>
+  🔗 [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/streamAPI/Exceptions)<br>
 
 * 📅 06/08/25 (Wed) – Day 3 – Regex & Junit <br>
   Topics: Regex, MetaCharacter, Quantifier, Common Patterns: Email Validation, Password Strength, Phone Number Format, Java Regex API : Pattern, Matcher, Methods: find(), matches(), replaceAll(), Introduction to JUnit Framework, JUnit Annotations, Writing Test Cases, Structure of a Test Class, Assertions<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/StreamAPI/RegexAndJunit/regex)<br>
+  🔗 [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/streamAPI/RegexAndJunit)<br>
 
-
-### 🛠 Workshop Branch
-
-* 📅 07/08/25 (Thu) – Day 12 – Coding Review<br>
-  Problem Statement 14 : 🧾 MailGuard – Organizational Email Filtering System<br>
-  📘 Scenario: You’ve been assigned to develop MailGuard, a robust email filtering system for internal use within an organization. The system is designed to manage and validate employee email addresses to ensure that only legitimate, organization-standard emails are accepted. The system will be part of a larger enterprise tool that relies heavily on clean, validated communication data.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/EmailFilteringSystem.java)<br>
-
-* 📅 08/08/25 (Thu) – Day 13 – Coding Review<br>
-  Problem Statement 15 : 🧑‍🏫 UniExam – Online Examination Portal<br>
-  📘 Scenario: You’ve been assigned to develop UniExam, an online exam system for a university that supports multiple subjects, question types, and real-time scoring. This system will allow students to select subjects, answer questions, and receive their scores automatically. It should be flexible enough to accommodate different question formats and answer types using generics, ensuring it can scale in the future.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/OnlineExamSystem.java)<br>
 
 * 📝 Note:
   Each topic’s code is organized in its dedicated branch — but this main README connects everything.
