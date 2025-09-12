@@ -125,8 +125,7 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
   Topics : Introduction to Generics, Type Parameters, Generic Classes, Generic Methods, Bounded Type Parameters, Wildcards
   🔗 [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/Generics/Generic)<br>
   ### 🧰 Collections
-  🔗[Code] (https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/Generics/Collections)<br>
-
+ 
 ### 🚀 StreamAPI Branch
 
 * 📅 29/07/25 (Tue) – Day 1 – Java Streams <br>
