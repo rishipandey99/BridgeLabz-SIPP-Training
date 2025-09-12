@@ -44,91 +44,76 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 * 📅 20/06/25 (Fri) – Day 1 – Classes & Objects<br>
   Topics: Defining classes, creating objects, class structure, encapsulating data, real-world object modeling in Java.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/OOP/JavaClassAndObject)<br>
+  🔗 [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/OOPs/ClassAndObject)<br>
 
 * 📅 23/06/25 (Mon) – Day 2 – Constructors, Variables, Modifiers<br>
   Topics: Constructor types (default, parameterized, overloaded), use of this keyword, instance vs static variables, and access modifiers.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/OOP/JavaConstructors)<br>
+  🔗 [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/OOPs/ConstructorsAndAceessModifiers)<br>
 
 * 📅 24/06/25 (Tue) – Day 3 – Java Keywords<br>
   Topics: Deep dive into important Java keywords: static, final, this, and instanceof, with practical examples for each.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/OOP/JavaKeyWords)<br>
+  🔗 [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/OOPs/KeywordsAndOperators)<br>
 
-* 📅 25/06/25 (Wed) – Day 4 – Diagrams & Modelling<br>
+* 📅 25/06/25 (Wed) – Day 4 – Principles<br>
   Topics: Object-oriented modeling, designing class diagrams using UML, understanding relationships like aggregation and composition.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/OOP/ObjectModeling)<br>
+  🔗 [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/OOPs/Principles)<br>
 
 ### 🛠 Workshop Branch
 
 * 📅 26/06/25 (Thu) – Day 1 – Coding Review<br>
   Problem Statement 1: 📚 BookBuddy – Digital Bookshelf App<br>
   📝 Story: Users maintain a personal digital bookshelf by adding, updating, and sorting their favorite books by title and author.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/BooksManagement.java)
+  🔗 [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/Workshop/Workshop/Bookbuddy)
 
 * 📅 27/06/25 (Fri) – Day 2 – Coding Review<br>
   Problem Statement 2: 🧠 Online Quiz Platform – Result Processor<br>
   📘 Scenario: A quiz platform processes user-submitted answers and compares them to the correct answers to calculate scores and assign grades.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/OnlineQuizPlatform.java)<br>
+  🔗 [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/Workshop/Workshop/QuizPlatform)<br>
 
 * 📅 28/06/25 (Sat) – Day 3 – Coding Review<br>
   Problem Statement 3 : ✈ Flight Booking System<br>
   📘 Scenario: Simulate a basic flight booking system where users can search flights, book them, and view booking details.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/FlightManagement.java)<br>
+  🔗 [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/Workshop/Workshop/FlightBookingSystem)<br>
 
 * 📅 28/06/25 (Sat) – Day 3 – Coding Review<br>
   Problem Statement 4 : 🎬 CinemaTime – Movie Schedule Manager<br>
   📘 Scenario: A cinema manager wants a tool to store and update a list of movie show times and titles. Users should be able to add, view, and search movies.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/CinemaManagement.java)<br>
+  🔗 [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/Workshop/Workshop/MovieScheduleManager)<br>
 
 ### 🧱 OOP Branch
 
 * 📅 01/07/25 (Tue) – Day 5 – Inheritance <br>
   Topics: Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Key Features of Inheritance, Method Overriding, Constructor Inheritance in Java, Polymorphism and Inheritance, Access Modifiers and Inheritance.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/OOP/Inheritance)<br>
+  🔗 [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/OOPs/Inheritance)<br>
 
 * 📅 02/07/25 (Wed) – Day 6 – Encapsulation, Interface, Abstract Classes, and Polymorphism<br>
   Topics: Encapsulation, Data Hiding, Getter & Setter Method, Compile-Time (Static) Polymorphism, Runtime (Dynamic) Polymorphism, Polymorphism with Interfaces, Polymorphism with Abstract Classes, Casting and instanceof with Polymorphism, Java Interfaces and Abstract Classes.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/OOP/OOPPillars)<br>
+  🔗 [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/OOPs/Principles)<br>
 
 ### 🧩 DSA Branch
 
 * 📅 03/07/25 (Thu) – Day 1 – Linked List<br>
   Topics: Introduction of Data Structure, Key Features of Data Structures in Java, Types of Data Structures in Java, Single Linked List, Double Linked List, Circular Linked List.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/DSA/LinkedList)<br>
-
-### 🛠 Workshop Branch
-
-* 📅 04/07/25 (Fri) – Day 4 – Coding Review<br>
-  Problem Statement 5 : 📦🚚✈📬ParcelTracker – Delivery Chain Management (Singly Linked List)<br>
-  📘 Scenario:  A courier company tracks parcels through stages like Packed → Shipped → In Transit →
-  Delivered. Each stage is a node in a Singly Linked List.
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/ParcelTrackerMain.java)<br>
+  🔗 [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/DSA/LinkedList)<br>
 
 ### 🧩 DSA Branch
 
 * 📅 07/07/25 (Mon) – Day 2 – Stack Queue And HashMap<br>
   Topics: Stacks in Java , Key Characteristics of Stack, Internal Working of Stack, Common Applications of Stack, Common Methods in Stack Class, Advantages of Stacks,Queues in Java,Key Characteristics of a Queue,Common Queue Methods,Ticket Counter Management Using Queue,Applications of Queue,HashMap in Java
   ,Internal Working of HashMap,Key Methods in HashMap,Performance Considerations,Limitations of HashMap,Common Use Cases,Hashing Function in Java,How to Override hashCode(),Steps for Hashing in Java,Applications of Hashing.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/DSA/StacksAndQueues)<br>
+  🔗 [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/DSA/Stack_Queue_HashMap_HashingFunctions)<br>
 
 * 📅 08/07/25 (Tue) – Day 3 – HashMap Implementations<br>
   Topics: Implement a HashMap without collection framework.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/DSA/StacksAndQueues/CustomHashMapImplementation.java)<br>
+  🔗 [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/DSA/Stack_Queue_HashMap_HashingFunctions/HashMapsAndHashFunctions)<br>
 
 * 📅 09/07/25 (Wed) – Day 4 – Sorting Algorithm<br>
   Topics: Bubble Sort,Insertion Sort,Merge Sort,Quick Sort<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/DSA/SortingAlgorithms)<br>
+  🔗 [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/DSA/SortingAlgorithms)<br>
 
 * 📅 10/07/25 (Thu) – Day 5 – Linear And Binary Search<br>
   Topics: Linear Search,Binary Search,String Builder,String Buffer,File Reader,Input Stream Reader,Linear Search,Binary Search<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/DSA/linearAndBinarySearch)<br>
-
-### 🛠 Workshop Branch
-
-* 📅 10/07/25 (Thu) – Day 5 – Coding Review<br>
-  Problem Statement 6 : 🎓 University Course Enrollment System<br>
-  📘 Scenario: Students should be able to enroll in courses, and faculty can assign grades.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/ParcelTrackerMain.java)<br>
+  🔗 [Code](https://github.com/rishipandey99/BridgeLabz-SIPP-Training/tree/DSA/linearAndBinarySearch)<br>
 
 ### 🧩 DSA Branch
 
